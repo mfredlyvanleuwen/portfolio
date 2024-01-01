@@ -3,7 +3,7 @@ title: "Automatic Fan"
 description: "Lebih simpel dan otomatis menyala!"
 dateString: Dec 2021
 draft: false
-tags: ["Embedded System", "GitHub Actions"]
+tags: ["Embedded System", "GitHub Actions", "Project Team"]
 showToc: false
 weight: 202
 cover:
