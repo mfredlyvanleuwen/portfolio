@@ -16,8 +16,6 @@ Dalam kehidupan sehari-hari, kipas angin merupakan benda yang sangat umum diguna
 
 {{< youtube id="G5txWpZQpME" autoplay="true" >}}
 
-
-
 ## Skema
 ![](/projects/automatic-fan/mckup.png)
 - Sensor ultrasonik untuk mengukur jarak suatu benda yang berada di hadapan sensor tersebut. 
