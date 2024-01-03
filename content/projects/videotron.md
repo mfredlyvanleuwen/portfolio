@@ -34,22 +34,3 @@ Videotron umumnya terdiri dari panel layar **LED** atau **LCD** yang besar denga
 ![](/projects/videotron/1.png) 
 ![](/projects/videotron/3.jpg)
 ![](/projects/videotron/4.jpg)
-...
-## My Markdown Content
-
-<style>
-    /* Your CSS code here */
-    .center-gif {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .center-gif img {
-        max-width: 100%;
-        max-height: 80vh; /* Sesuaikan dengan kebutuhan Anda */
-    }
-</style>
-<div class="center-gif">
-    {{< figure src="/projects/videotron/asrama.gif" alt="Your GIF" >}}
-</div>
