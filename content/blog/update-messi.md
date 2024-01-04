@@ -1,5 +1,5 @@
 ---
-title: "Update records and awards Lionel Messi"
+title: "records and awards Lionel Messi"
 description: "sedang tidur"
 dateString: 2024
 draft: false
