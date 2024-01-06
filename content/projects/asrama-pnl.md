@@ -35,6 +35,9 @@ Namun untuk mengisi daftar hadir mahasiswa, masih menggunakan media kertas dan g
 </style>
 
 ## 📷︎ Dokumentasi
+![](/projects/asrama-pnl/7.png)
+![](/projects/asrama-pnl/5.png)
+![](/projects/asrama-pnl/6.png)
 ![](/projects/asrama-pnl/1.jpg)
 ![](/projects/asrama-pnl/2.png)
 ![](/projects/asrama-pnl/3.png)
