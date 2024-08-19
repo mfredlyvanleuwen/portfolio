@@ -13,7 +13,7 @@ cover:
 
 # Introduction
 
-Asrama Politeknik Negeri Lhokseumawe (PNL) yang terletak di kawasan Bukit Rata merupakan asrama bagi mahasiswa Politeknik Negeri Lhokseumawe (PNL). Mahasiswa PNL yang tinggal di asrama tersebut merupakan mahasiswa yang menempuh pendidikan di Politeknik Negeri Lhokseumawe.Dalam satu kamar biasa dihuni oleh tiga sampai empat orang dan di dalamnya selalu diisi oleh mahasiswa tahun ajaran baru dan didampingi oleh mahasiswa yang berada satu tingkat atau dua tingkat diatasnya. 
+Asrama Politeknik Negeri Lhokseumawe (PNL) yang terletak di kawasan Bukit Rata merupakan asrama bagi mahasiswa Politeknik Negeri Lhokseumawe. Mahasiswa PNL yang tinggal di asrama tersebut merupakan mahasiswa yang menempuh pendidikan di Politeknik Negeri Lhokseumawe.Dalam satu kamar biasa dihuni oleh tiga sampai empat orang dan di dalamnya selalu diisi oleh mahasiswa tahun ajaran baru dan didampingi oleh mahasiswa yang berada satu tingkat atau dua tingkat diatasnya. 
 <div class="center-gif">
     {{< figure src="/projects/videotron/asrama.gif" alt="Your GIF" >}}
 </div>
