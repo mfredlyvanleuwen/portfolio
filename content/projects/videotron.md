@@ -1,7 +1,7 @@
 ---
 title: "Video Tron"
 description: "Pake LED cuy"
-dateString: 14 Jun 2023
+dateString: Jun 2009
 draft: false
 tags: ["Project Team"]
 showToc: false
