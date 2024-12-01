@@ -1,7 +1,7 @@
 ---
-title: "Zutomatic Fan"
+title: "Automatic Fan"
 description: "Lebih simpel dan otomatis menyala!"
-dateString: Dec 2021
+dateString: Dec 2001
 draft: false
 tags: ["Embedded System", "GitHub Actions", "Project Team"]
 showToc: false
