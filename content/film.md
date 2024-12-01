@@ -9,16 +9,14 @@ weight: 202
 cover:
     image: "projects/automatic-fan/cover.jpg"
 --- 
-### 🔗 [GitHub](https://github.com/mfredlyvanleuwen/automatic-fan)
 
-## Pendahuluan
-Dalam kehidupan sehari-hari, kipas angin merupakan benda yang sangat umum digunakan, pada saat siang hari maupun malam hari, apalagi ketika cuaca yang sangat panas dan juga digunakan untuk beberapa keperluan lainnya. Seperti yang kita ketahui dengan berkembangnya teknologi saat ini maka kami ingin membuat kipas angin otomatis yang memudahkan pengguna tanpa harus membawa kipas yang pada umumnya besar dan ribet. 
+## House Of Dragon Series Season 2
+House of the Dragon adalah prekuel dari serial fenomenal Game of Thrones yang berlatar 200 tahun sebelum peristiwa di Westeros. Serial ini mengisahkan dinasti Targaryen, fokus pada perebutan kekuasaan internal keluarga yang memicu perang saudara legendaris, Dance of the Dragons. Dengan produksi yang megah, karakter yang kompleks, dan naga yang menakjubkan, House of the Dragon menawarkan drama politik, intrik keluarga, serta aksi epik yang memikat. Jika Anda menikmati dunia fantasi gelap dengan cerita mendalam dan konflik yang memanas, serial ini adalah pilihan sempurna.
 
-{{< youtube id="G5txWpZQpME" autoplay="true" >}}
+{{< youtube id="N2H_sKcmGw" autoplay="true" >}}
 
-## Skema
-![](/projects/automatic-fan/mckup.png)
-- Sensor ultrasonik untuk mengukur jarak suatu benda yang berada di hadapan sensor tersebut. 
-- WeMos D1 merupakan papan induk dari semua proses yang dilakukan.  
-- Dht22 adalah mengecek suhu keadaan sekitar 
-- Relay adalah sebagai pemutus atau penghubung aliran listrik pada rangkaian dengan kontrol berupa tegangan.
+# Tautan Unduhan
+
+Anda dapat mengunduh file berikut dengan mengklik tautan di bawah ini:
+
+<a href="https://raw.githubusercontent.com/username/repo/master/file.txt" download>Download File</a>
