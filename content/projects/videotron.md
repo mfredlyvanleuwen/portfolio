@@ -5,7 +5,7 @@ dateString: Jun 2009
 draft: false
 tags: ["Project Team"]
 showToc: false
-weight: 203
+weight: 201
 cover:
     image: "projects/videotron/cover.jpg"
 --- 
