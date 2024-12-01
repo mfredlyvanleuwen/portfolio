@@ -1,5 +1,5 @@
 ---
-title: "Automatic Fan"
+title: "Zutomatic Fan"
 description: "Lebih simpel dan otomatis menyala!"
 dateString: Dec 2021
 draft: false
