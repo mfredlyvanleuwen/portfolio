@@ -13,6 +13,10 @@ House of the Dragon adalah prekuel dari serial fenomenal Game of Thrones yang be
 
 # Tautan Unduhan
 
-Anda dapat mengunduh file berikut dengan mengklik tautan di bawah ini:
+Anda dapat mengunduh Film berikut dengan mengklik tautan di bawah ini:
 
-<a href="https://raw.githubusercontent.com/username/repo/master/file.txt" download>Download File</a>
+<div style="text-align: center;">
+    <a href="https://example.com" download>
+        <img src="https://ps.w.org/easy-digital-downloads-free-link/assets/icon-128x128.png" alt="Download" style="width:200px; height:auto;">
+    </a>
+</div>
