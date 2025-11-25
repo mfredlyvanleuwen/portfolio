@@ -1,6 +1,6 @@
 ---
 title: "Video Tron"
-description: "Pake LED cuy"
+description: "Merupakan "
 dateString: Jun 2009
 draft: false
 tags: ["Project Team"]

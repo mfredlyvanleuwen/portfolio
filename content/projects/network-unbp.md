@@ -7,7 +7,7 @@ tags: ["Project Team"]
 showToc: false
 weight: 201
 cover:
-    image: "projects/network-unbp/cover_unbp.png"
+    image: "projects/network-unbp/unbp_cover.png"
 --- 
 
 
