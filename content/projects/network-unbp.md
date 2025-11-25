@@ -16,14 +16,15 @@ cover:
 
 ## ⛏️ Alat dan Bahan
 - Laptop
-- Software PowerLED
-- Modul Controller TF-QS2N
-- Kabel LVDS/Data
-- Kabel Power Panel P10 RGB
-- Kabel Power Sumber Daya
-- Power supply 20A 5V
-- Panel P10RGB-3535(2727)-DP-4S-V-3.0
-- Flashdisk 
+- Mikrotik RB750Gr3
+- Kabel UTP
+- Crimping
+- Switch manageable
+- Dedicated Internet(Ip statis)
+- Zabbix
+- Server
+- TP Link
+- Tang Gunting
 
 ## 📐 Rangkaian
 ![](/projects/videotron/rangkaian.jpg)
