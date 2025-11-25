@@ -1,7 +1,7 @@
 ---
 title: "Automatic Fan"
 description: "Lebih simpel dan otomatis menyala!"
-dateString: Dec 2001
+dateString: Politeknik Negeri Lhokseumawe, May 2023
 draft: false
 tags: ["Embedded System", "GitHub Actions", "Project Team"]
 showToc: false

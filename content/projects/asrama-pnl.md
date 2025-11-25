@@ -1,7 +1,7 @@
 ---
 title: "Pengelolaan Asrama Berbasis Web"
 description: "Menyediakan platform terintegrasi untuk efisiensi pengelolaan asrama, memfasilitasi pendaftaran, penempatan, keamanan, dan komunikasi, serta memberikan manfaat peningkatan keteraturan administratif."
-dateString: Dec 2023
+dateString: Politeknik Negeri Lhokseumawe, Dec 2023
 draft: false
 tags: ["Web", "Project Team"]
 showToc: false

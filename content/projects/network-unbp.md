@@ -1,7 +1,7 @@
 ---
 title: "Monitoring & Instalasi Network Infrastruktur Universitas Bumi Persada"
-description: "Project Based"
-dateString: Des 2024
+description: "Project Based, Merupakan project yang bekerja sama langsung dengan Rektor Universitas Bumi Persada meliputi instalasi, monitoring, notifikasi perangkat, dan vpn di ketiga gedung"
+dateString: Lhokseumawe, Des 2024
 draft: false
 tags: ["Project Team"]
 showToc: false
@@ -12,9 +12,7 @@ cover:
 
 
 ## Deskripsi
-Videotron adalah istilah yang digunakan secara umum untuk mengacu pada layar elektronik besar yang digunakan untuk menampilkan video, gambar, teks, atau kombinasi dari semuanya. Videotron sering kali digunakan sebagai media promosi, papan iklan, atau sarana komunikasi visual di lokasi publik yang ramai.
 
-Videotron umumnya terdiri dari panel layar **LED** atau **LCD** yang besar dengan kemampuan tampilan visual yang menarik. Mereka sering ditempatkan di tempat-tempat seperti jalan raya, pusat perbelanjaan, gedung perkantoran, stadion, dan tempat umum lainnya yang dapat menarik perhatian banyak orang.
 
 ## ⛏️ Alat dan Bahan
 - Laptop

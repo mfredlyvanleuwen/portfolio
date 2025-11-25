@@ -1,7 +1,7 @@
 ---
 title: "Video Tron"
-description: "Merupakan "
-dateString: Jun 2009
+description: "Merupakan Project Based Learning akhir semester 4, Tim membuat video tron berisi ucapan untuk dipasang di pintu masuk gedung TIK Politeknik Negeri Lhokseumawe"
+dateString: Politeknik Negeri Lhokseumawe, Jun 2022
 draft: false
 tags: ["Project Team"]
 showToc: false
