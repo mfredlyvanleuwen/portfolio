@@ -32,11 +32,14 @@ Infrastruktur jaringan yang handal dan efisien sangat penting untuk mendukung ak
 Pada gambar ini, diperlihatkan topologi jaringan yang terdiri dari tiga gedung (Gedung A, B, dan C) yang masing-masing terhubung melalui perangkat jaringan sectoral dan VPN. Setiap gedung memiliki Router dan perangkat jaringan lain yang akan dipantau menggunakan Zabbix. Server Zabbix ditempatkan di Gedung A dan berfungsi sebagai pusat pemantauan untuk seluruh jaringan yang ada di ketiga gedung.
 
 ## 🏢 3 Gedung yang akan di instalasi dan monitoring
-### Gedung A
+#### Gedung A
+***
 ![](/projects/network-unbp/gedungA.png)
-### Gedung B
+#### Gedung B
+***
 ![](/projects/network-unbp/gedungB.png)
-### Gedung C 
+#### Gedung C 
+***
 ![](/projects/network-unbp/gedungC.png)
 
 
