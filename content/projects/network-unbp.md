@@ -47,7 +47,7 @@ Pada gambar ini, diperlihatkan topologi jaringan yang terdiri dari tiga gedung (
 ## 📡 Implementasi VPN (site-to-site)
 Implementasi VPN Site-to-Site dirancang untuk menyatukan jaringan dari tiga gedung utama Universitas Bumi Persada ke dalam satu sistem yang aman dan terenkripsi menggunakan protokol L2TP/IPSec. Dalam sistem ini, Gedung A berperan sebagai server VPN dengan IP Publik statis. Sementara itu, Gedung B dan Gedung C sebagai klien VPN yang akan terhubung ke Gedung A melalui koneksi L2TP/IPSec.
 <p align="center">
-  <img src="static/projects/network-unbp/vpn.png" alt="Gambar 3.1" width="350">
+  <img src="projects/network-unbp/vpn.PNG" alt="Gambar 3.1" width="350">
 </p>
 
 <p align="center"><em>Mikrotik integrasi dengan openvpn</em></p>
