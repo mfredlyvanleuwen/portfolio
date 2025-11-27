@@ -31,6 +31,19 @@ Infrastruktur jaringan yang handal dan efisien sangat penting untuk mendukung ak
 ![](/projects/network-unbp/rancangan.png)
 Pada gambar ini, diperlihatkan topologi jaringan yang terdiri dari tiga gedung (Gedung A, B, dan C) yang masing-masing terhubung melalui perangkat jaringan sectoral dan VPN. Setiap gedung memiliki Router dan perangkat jaringan lain yang akan dipantau menggunakan Zabbix. Server Zabbix ditempatkan di Gedung A dan berfungsi sebagai pusat pemantauan untuk seluruh jaringan yang ada di ketiga gedung.
 
+## 🏢 3 Gedung yang akan di instalasi dan monitoring
+# Gedung A
+![](/projects/network-unbp/gedungA.png)
+# Gedung B
+![](/projects/network-unbp/gedungB.png)
+# Gedung C 
+![](/projects/network-unbp/gedungC.png)
+
+
+
+## 📡 Implementasi VPN (site-to-site)
+Implementasi VPN Site-to-Site dirancang untuk menyatukan jaringan dari tiga gedung utama Universitas Bumi Persada ke dalam satu sistem yang aman dan terenkripsi menggunakan protokol L2TP/IPSec. Dalam sistem ini, Gedung A berperan sebagai server VPN dengan IP Publik statis. Sementara itu, Gedung B dan Gedung C sebagai klien VPN yang akan terhubung ke Gedung A melalui koneksi L2TP/IPSec.
+
 ## 📷︎ Dokumentasi
 ![](/projects/videotron/1.png) 
 ![](/projects/videotron/3.jpg)
