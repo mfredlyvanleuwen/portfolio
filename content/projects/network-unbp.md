@@ -11,10 +11,10 @@ cover:
 --- 
 
 
-## Deskripsi
+### Deskripsi
 Infrastruktur jaringan yang handal dan efisien sangat penting untuk mendukung aktivitas akademik dan administrasi Universitas Bumi Persada. Namun, saat ini terdapat beberapa kendala seperti tiga gedung yang belum terhubung, melihat persentase penggunaan bandwidth harian, serta tidak adanya sistem pemantauan jaringan dan notifikasi otomatis. Oleh karena itu, penelitian ini bertujuan untuk mengukur penggunaan bandwidth secara real-time, mengkonfigurasi Zabbix agar dapat mengirimkan notifikasi status perangkat ke Telegram
 
-## ⛏️ Alat dan Bahan
+### ⛏️ Alat dan Bahan
 - Laptop
 - Mikrotik RB750Gr3
 - Kabel UTP
@@ -27,19 +27,19 @@ Infrastruktur jaringan yang handal dan efisien sangat penting untuk mendukung ak
 - Tang Gunting
 - open vpn
 
-## 📐 Rancangan Topologi
+### 📐 Rancangan Topologi
 ![](/projects/network-unbp/rancangan.png)
 Pada gambar ini, diperlihatkan topologi jaringan yang terdiri dari tiga gedung (Gedung A, B, dan C) yang masing-masing terhubung melalui perangkat jaringan sectoral dan VPN. Setiap gedung memiliki Router dan perangkat jaringan lain yang akan dipantau menggunakan Zabbix. Server Zabbix ditempatkan di Gedung A dan berfungsi sebagai pusat pemantauan untuk seluruh jaringan yang ada di ketiga gedung.
 
-## 🏢 3 Gedung yang akan di instalasi dan monitoring
-#### Gedung A
+### 🏢 3 Gedung yang akan di instalasi dan monitoring
 ***
+### Gedung A
 ![](/projects/network-unbp/gedungA.png)
-#### Gedung B
 ***
+### Gedung B
 ![](/projects/network-unbp/gedungB.png)
-#### Gedung C 
 ***
+### Gedung C 
 ![](/projects/network-unbp/gedungC.png)
 
 
