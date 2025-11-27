@@ -14,6 +14,28 @@ cover:
 ### Deskripsi
 Infrastruktur jaringan yang handal dan efisien sangat penting untuk mendukung aktivitas akademik dan administrasi Universitas Bumi Persada. Namun, saat ini terdapat beberapa kendala seperti tiga gedung yang belum terhubung, melihat persentase penggunaan bandwidth harian, serta tidak adanya sistem pemantauan jaringan dan notifikasi otomatis. Oleh karena itu, penelitian ini bertujuan untuk mengukur penggunaan bandwidth secara real-time, mengkonfigurasi Zabbix agar dapat mengirimkan notifikasi status perangkat ke Telegram
 
+## 👥 Our Team
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="LINK_FOTO_1" alt="Foto 1" width="120" style="border-radius:50%;">
+      <br><br>
+      <b>Nama Orang 1</b><br>
+      <i>Universitas / Kampus</i>
+    </td>
+    <td align="center" width="200">
+      <img src="LINK_FOTO_2" alt="Foto 2" width="120" style="border-radius:50%;">
+      <br><br>
+      <b>Nama Orang 2</b><br>
+      <i>Universitas / Kampus</i>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ### ⛏️ Alat dan Bahan
 - Laptop
 - Mikrotik RB750Gr3
