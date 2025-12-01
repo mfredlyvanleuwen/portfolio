@@ -20,16 +20,16 @@ Infrastruktur jaringan yang handal dan efisien sangat penting untuk mendukung ak
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="LINK_FOTO_1" alt="Foto 1" width="120" style="border-radius:50%;">
+      <img src="/projects/network-unbp/fred.jpeg" alt="Foto 1" width="120" style="border-radius:50%;">
       <br><br>
       <b>M. Fredly Vanleuwen</b><br>
-      <i>Teknologi Rekayasa Komputer Jaringan / Politeknik Negeri Lhokseumawe</i>
+      <i>Teknologi Rekayasa Komputer Jaringan</i>
     </td>
     <td align="center" width="200">
-      <img src="LINK_FOTO_2" alt="Foto 2" width="120" style="border-radius:50%;">
+      <img src="/projects/network-unbp/jar.jpeg" alt="Foto 2" width="120" style="border-radius:50%;">
       <br><br>
       <b>Fajar Permadi</b><br>
-      <i>Teknologi Rekayasa Jaringan Telekomunikasi / Politeknik Negeri Lhokseumawe</i>
+      <i>Teknologi Rekayasa Jaringan Telekomunikasi</i>
     </td>
   </tr>
 </table>
