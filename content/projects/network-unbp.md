@@ -22,14 +22,14 @@ Infrastruktur jaringan yang handal dan efisien sangat penting untuk mendukung ak
     <td align="center" width="200">
       <img src="LINK_FOTO_1" alt="Foto 1" width="120" style="border-radius:50%;">
       <br><br>
-      <b>Nama Orang 1</b><br>
-      <i>Universitas / Kampus</i>
+      <b>M. Fredly Vanleuwen</b><br>
+      <i>Teknologi Rekayasa Komputer Jaringan / Politeknik Negeri Lhokseumawe</i>
     </td>
     <td align="center" width="200">
       <img src="LINK_FOTO_2" alt="Foto 2" width="120" style="border-radius:50%;">
       <br><br>
-      <b>Nama Orang 2</b><br>
-      <i>Universitas / Kampus</i>
+      <b>Fajar Permadi</b><br>
+      <i>Teknologi Rekayasa Jaringan Telekomunikasi / Politeknik Negeri Lhokseumawe</i>
     </td>
   </tr>
 </table>
